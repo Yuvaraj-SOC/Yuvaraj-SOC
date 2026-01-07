@@ -43,7 +43,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Web App & AD Testing             | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=flat&logo=burp-suite&logoColor=white) ![BloodHound](https://img.shields.io/badge/BloodHound-FF0000?style=flat&logo=gitkraken&logoColor=white) |
 | Penetration Platforms            | ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat&logo=metasploit&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=flat&logo=kali-linux&logoColor=white) |
 
----
+
 ### 🔧 Infrastructure & OS
 
 | Category                | Tools Used |
@@ -52,49 +52,38 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Identity Management    | ![Active Directory](https://img.shields.io/badge/Active_Directory-0078D6?style=flat&logo=microsoft&logoColor=white) |
 | Operating Systems      | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
 
----
+
 ### Programming Language 
 Bash ,Python
-
-## 📜 Certifications
-
-| Issuer           | Certification | Year |
-|------------------|----------------|------|
-| EC Council| [CEH V12]| 2025 |
-| Google           | [Cybersecurity Specialization] | 2024 |
-|Hack&Fix |[CPPS - Certified Phishing Prevention Specialist]|2025|
-|Red Team Leader|[CRTOM -Certified Red Team Operations Management]|2025
-
-
----
 
 ## 📄 Certificates of Completion
 
 | Issuer      | Certificate Title                                                                                             |
 |----------------|---------------------------------------------------------------------------------------------------------------|
-| Forage         | [Datacom Cybersecurity Job Simulation](https://github.com/A9u3ybaCyb3r/Certifications/blob/main/Datacom_completion_certificate.pdf) |
-| TCM Security   | [Security Operations (SOC) 101](https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-security-operations-soc-101.pdf) |
-| TCM Security   | [Open-Source Intelligence (OSINT) Fundamentals](https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-open-source-intelligence-osint-fundamentals.pdf) |
-| TCM Security   | [Practical Bug Bounty](https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-practical-bug-bounty.pdf) |
-| TCM Security   | [Practical Ethical Hacking](https://github.com/A9u3ybaCyb3r/Certifications/blob/main/certificate-of-completion-for-practical-ethical-hacking-the-complete-course.pdf) |
-
+| EC Council     | [Certificated Ethical Hacker v12 ](https://github.com/Yuvaraj-SOC/Certification/blob/main/CEH-EC%20council.pdf) |
+|Google          | [Foundations of Cyber Security](https://github.com/Yuvaraj-SOC/Certification/blob/main/Foundation%20of%20Cyber%20security-google.pdf)|
+|Qualys          | [Qualys Certified Specialist]()
+|Hack & Fix      | [Certified Phishing Prevention Specialist](https://github.com/Yuvaraj-SOC/Certification/blob/main/CPPS-Hack%26Fix.pdf)
+|Red Team Leader | [Certified Red Team Operations Management](https://github.com/Yuvaraj-SOC/Certification/blob/main/CRTOM-Red%20Team.pdf)
 
 ## 🧪 CTF Participation
 
 | Event | Skills Demonstrated | Takeaway |
 |-------|---------------------|----------|
-| [King of Hackers](https://github.com/A9u3ybaCyb3r/A9u3ybaCyb3r/blob/main/King%20of%20Hackers%20CTF.pdf) | WordPress enumeration, Google dorking, HackTricks | Learned to assess CMS-based vulns under pressure |
+| [Hackfinity Battle – TryHackMe](https://github.com/Yuvaraj-SOC/Certification/blob/main/Hackfinity%20Battle-Tryhackme.pdf) | Web exploitation, enumeration, privilege escalation | Gained competitive CTF experience under time pressure with 32 challenges completed |
+| [Industrial Intrusion CTF – TryHackMe](https://github.com/Yuvaraj-SOC/Certification/blob/main/industrial%20intrusion%20CTF-Tryhackme.pdf) | ICS concepts, attack detection, incident analysis | Learned industrial intrusion scenarios and secured **27th place among 5,000 teams** |
+| [Yukthi CTF 2.0 – Tamil Nadu Police](https://github.com/Yuvaraj-SOC/Certification/blob/main/Yukthi-CTF.pdf) | OSINT, web attacks, logic-based exploitation | Participated in a national-level CTF finals, strengthening real-world attack analysis skills |
+| [Advent of Cyber 2025 – Side Quests](https://github.com/Yuvaraj-SOC/Certification/blob/main/AOC%202-Tryhackme.pdf) | Malware analysis, Windows forensics, SOC investigation workflows | Solved advanced blue-team challenges demonstrating persistence and deep problem-solving skills |
+| [Advent of Cyber 2025](https://github.com/Yuvaraj-SOC/Certification/blob/main/AOC-Tryhackme.pdf) | Linux & Windows basics, networking, web security fundamentals | Built strong cybersecurity foundations through 24 progressive hands-on challenges |
 
 ---
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+## Certifications 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+ <img src="https://img.shields.io/badge/CEH-EC_Council-FF0000?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Qualys%20VMDR-2E8B57?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/CRTOM-Red_Team-000080?style=for-the-badge&logoColor=white" />
 </div>
 
 ## Projects
