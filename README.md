@@ -10,7 +10,6 @@ M.Sc Cyber Security Student | SOC |SIEM |OSINT| EDR | Penetration Tester | Red T
 
 Cybersecurity enthusiast with hands-on lab experience in threat detection, digital forensics, SIEM tools, and ethical hacking. I enjoy solving complex security problems and building practical solutions in my home lab.
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YuvaXploit.png)](https://tryhackme.com/p/YuvaXploit)
 
 
 
@@ -86,6 +85,8 @@ Bash ,Python
 <img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/CRTOM-Red_Team-000080?style=for-the-badge&logoColor=white" />
 </div>
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YuvaXploit.png)](https://tryhackme.com/p/YuvaXploit)
 
 ## Projects
 - Detection Lab
