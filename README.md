@@ -54,7 +54,7 @@ Cybersecurity fresher seeking an entry-level SOC Tier 1 Analyst role, where I ca
 
 
 ### Programming Language 
-Bash ,Python
+<img width="48" height="48" src="https://img.icons8.com/color/48/bash.png" alt="bash"/><img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 
 ## 📄 Certificates of Completion
 
