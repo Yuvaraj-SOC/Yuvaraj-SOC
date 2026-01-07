@@ -3,7 +3,10 @@
 M.Sc Cyber Security Student | SOC |SIEM |OSINT| EDR | Penetration Tester | Red Team | Incident Responder | Threat Hunter
 
 <a href="https://www.linkedin.com/in/yuvaraj-d-866333236/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@VulnHunt3r"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=Medium&logoColor=white" />
+<a href="https://medium.com/@VulnHunt3r"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
+<a href="https://tryhackme.com/p/YuvaXploit">
+  <img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
 
 Cybersecurity enthusiast with hands-on lab experience in threat detection, digital forensics, SIEM tools, and ethical hacking. I enjoy solving complex security problems and building practical solutions in my home lab.
 
