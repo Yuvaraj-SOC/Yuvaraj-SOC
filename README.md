@@ -62,9 +62,10 @@ Bash ,Python
 |----------------|---------------------------------------------------------------------------------------------------------------|
 | EC Council     | [Certificated Ethical Hacker v12 ](https://github.com/Yuvaraj-SOC/Certification/blob/main/CEH-EC%20council.pdf) |
 |Google          | [Foundations of Cyber Security](https://github.com/Yuvaraj-SOC/Certification/blob/main/Foundation%20of%20Cyber%20security-google.pdf)|
-|Qualys          | [Qualys Certified Specialist]()
+|Qualys          | [Qualys Certified Specialist](https://github.com/Yuvaraj-SOC/Certification/blob/main/QUALYS-Certification.pdf)
 |Hack & Fix      | [Certified Phishing Prevention Specialist](https://github.com/Yuvaraj-SOC/Certification/blob/main/CPPS-Hack%26Fix.pdf)
 |Red Team Leader | [Certified Red Team Operations Management](https://github.com/Yuvaraj-SOC/Certification/blob/main/CRTOM-Red%20Team.pdf)
+|NPTEL -76%       | [Ethical Hacking ](https://github.com/Yuvaraj-SOC/Certification/blob/main/Ethiacl%20Hacking-NPTEL.pdf)
 
 ## 🧪 CTF Participation
 
@@ -89,5 +90,14 @@ Bash ,Python
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YuvaXploit.png)](https://tryhackme.com/p/YuvaXploit)
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+### Honeypot-Based Intrusion Detection System | 2025 
+• Deployed multi-service honeypots (SSH, FTP, HTTP) on cloud infrastructure. <br>
+• Captured 500+ real-world attacker requests and brute-force attempts.<br>
+• Built a Flask dashboard for live attacker tracking and alert visualization.
+
+### Phishing Detection & Email Analysis Lab | 2024 
+• Analyzed phishing emails using standard SOC investigation workflow.<br>
+• Extracted malicious URLs, hashes, and IP indicators (IOCs). <br>
+• Documented incident reports, root cause analysis, and remediation steps.<br>
+• Analyse using VirusTotal ,MISP ,CTIplatform . 
+
