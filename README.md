@@ -10,11 +10,12 @@ M.Sc Cyber Security Student | SOC |SIEM |OSINT| EDR | Penetration Tester | Red T
 
 Cybersecurity enthusiast with hands-on lab experience in threat detection, digital forensics, SIEM tools, and ethical hacking. I enjoy solving complex security problems and building practical solutions in my home lab.
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YuvaXploit.png)](https://tryhackme.com/p/YuvaXploit)
+
+
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Cybersecurity fresher seeking an entry-level SOC Tier 1 Analyst role, where I can apply hands-on knowledge of SIEM monitoring, alert triage, log analysis, phishing and malware investigation, while continuously learning and contributing to real-world security operations.
 
 ## 🧰 Skills
 
@@ -70,11 +71,11 @@ Bash ,Python
 
 | Event | Skills Demonstrated | Takeaway |
 |-------|---------------------|----------|
-| [Hackfinity Battle – TryHackMe](https://github.com/Yuvaraj-SOC/Certification/blob/main/Hackfinity%20Battle-Tryhackme.pdf) | Web exploitation, enumeration, privilege escalation | Gained competitive CTF experience under time pressure with 32 challenges completed |
-| [Industrial Intrusion CTF – TryHackMe](https://github.com/Yuvaraj-SOC/Certification/blob/main/industrial%20intrusion%20CTF-Tryhackme.pdf) | ICS concepts, attack detection, incident analysis | Learned industrial intrusion scenarios and secured **27th place among 5,000 teams** |
-| [Yukthi CTF 2.0 – Tamil Nadu Police](https://github.com/Yuvaraj-SOC/Certification/blob/main/Yukthi-CTF.pdf) | OSINT, web attacks, logic-based exploitation | Participated in a national-level CTF finals, strengthening real-world attack analysis skills |
-| [Advent of Cyber 2025 – Side Quests](https://github.com/Yuvaraj-SOC/Certification/blob/main/AOC%202-Tryhackme.pdf) | Malware analysis, Windows forensics, SOC investigation workflows | Solved advanced blue-team challenges demonstrating persistence and deep problem-solving skills |
-| [Advent of Cyber 2025](https://github.com/Yuvaraj-SOC/Certification/blob/main/AOC-Tryhackme.pdf) | Linux & Windows basics, networking, web security fundamentals | Built strong cybersecurity foundations through 24 progressive hands-on challenges |
+| [Hackfinity Battle](https://github.com/Yuvaraj-SOC/Certification/blob/main/Hackfinity%20Battle-Tryhackme.pdf) | Web exploitation, enumeration, privilege escalation | Gained competitive CTF experience under time pressure with 32 challenges completed |
+| [Industrial Intrusion](https://github.com/Yuvaraj-SOC/Certification/blob/main/industrial%20intrusion%20CTF-Tryhackme.pdf) | ICS concepts, attack detection, incident analysis | Learned industrial intrusion scenarios and secured **27th place among 5,000 teams** |
+| [Yukthi CTF 2.0 ](https://github.com/Yuvaraj-SOC/Certification/blob/main/Yukthi-CTF.pdf) | OSINT, web attacks, logic-based exploitation | Participated in a national-level CTF finals, strengthening real-world attack analysis skills |
+| [AOC 2025 – Side Quests](https://github.com/Yuvaraj-SOC/Certification/blob/main/AOC%202-Tryhackme.pdf) | Malware analysis, Windows forensics, SOC investigation workflows | Solved advanced blue-team challenges demonstrating persistence and deep problem-solving skills |
+| [AOC 2025](https://github.com/Yuvaraj-SOC/Certification/blob/main/AOC-Tryhackme.pdf) | Linux & Windows basics, networking, web security fundamentals | Built strong cybersecurity foundations through 24 progressive hands-on challenges |
 
 ---
 
