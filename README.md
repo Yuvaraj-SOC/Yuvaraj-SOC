@@ -1,6 +1,6 @@
 # YUVARAJ.D
 
-M.Sc Cyber Security Student | SOC |SIEM |OSINT| EDR | Penetration Tester | Red Team | Incident Responder | Threat Hunter
+M.Sc Cyber Security Student | SOC |SIEM |OSINT| EDR | Penetration Tester | Red Team | Incident Responder | Threat Hunter|Malware Analyst
 
 <a href="https://www.linkedin.com/in/yuvaraj-d-866333236/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@VulnHunt3r"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=Medium&logoColor=white" /></a>
@@ -14,7 +14,7 @@ Cybersecurity enthusiast with hands-on lab experience in threat detection, digit
 
 
 ## Objective
-Cybersecurity fresher seeking an entry-level SOC Tier 1 Analyst role, where I can apply hands-on knowledge of SIEM monitoring, alert triage, log analysis, phishing and malware investigation, while continuously learning and contributing to real-world security operations.
+Cybersecurity fresher seeking an entry-level SOC Tier 1 Analyst role, where I can apply hands-on knowledge of SIEM monitoring, alert triage, log analysis, phishing and malware investigation, while continuously learning and contributing to real-world security operations.Interested in Malware Anlaysis.
 
 ## 🧰 Skills
 
