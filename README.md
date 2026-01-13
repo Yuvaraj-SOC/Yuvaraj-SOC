@@ -30,7 +30,8 @@ Cybersecurity fresher seeking an entry-level SOC Tier 1 Analyst role, where I ca
 | Category                      | Tools Used |
 |------------------------------|------------|
 | SIEM & Log Analysis          | ![Splunk](https://img.shields.io/badge/Splunk-0072C6?style=flat&logo=splunk&logoColor=white) |
-| Endpoint Detection & Response| ![Sysmon](https://img.shields.io/badge/Sysmon-1D7BF4?style=flat&logo=microsoft&logoColor=white) |
+|SOAR                          | ![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Google Chronicle](https://img.shields.io/badge/Google_Chronicle-4285F4?style=flat&logo=Google+Cloud&logoColor=white)|
+| Endpoint Detection & Response| ![Sysmon](https://img.shields.io/badge/Sysmon-1D7BF4?style=flat&logo=microsoft&logoColor=white)  ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=flat&logo=microsoft&logoColor=white) |
 | Phishing Analysis            | ![PhishTool](https://img.shields.io/badge/PhishTool-FF5733?style=flat&logo=googlechrome&logoColor=white) ![VirusTotal](https://img.shields.io/badge/VirusTotal-FF1744?style=flat&logo=virustotal&logoColor=white) |
 | Threat Intelligence          | ![MISP](https://img.shields.io/badge/MISP-FF5722?style=flat&logo=cloudflare&logoColor=white) ![YARA](https://img.shields.io/badge/YARA-FF9800?style=flat&logo=gnu&logoColor=white) |
 | Forensics                    | ![FTK Imager](https://img.shields.io/badge/FTK_Imager-0077C2?style=flat) ![Volatility3](https://img.shields.io/badge/Volatility-FF9800?style=flat&logo=python&logoColor=white) |
