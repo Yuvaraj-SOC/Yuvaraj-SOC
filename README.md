@@ -87,7 +87,7 @@ Cybersecurity fresher seeking an entry-level SOC Tier 1 Analyst role, where I ca
 <img src="https://img.shields.io/badge/CRTOM-Red_Team-000080?style=for-the-badge&logoColor=white" />
 </div>
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YuvaXploit.png)](https://tryhackme.com/p/YuvaXploit)
+[![TryHackMe](<img src="https://tryhackme-badges.s3.amazonaws.com/YuvaXploit.png" alt="Your Image Badge" />)
 
 ## Projects
 ### Honeypot-Based Intrusion Detection System | 2025 
