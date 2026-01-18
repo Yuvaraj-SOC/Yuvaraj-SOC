@@ -67,6 +67,7 @@ Cybersecurity fresher seeking an entry-level SOC Tier 1 Analyst role, where I ca
 |Hack & Fix      | [Certified Phishing Prevention Specialist](https://github.com/Yuvaraj-SOC/Certification/blob/main/CPPS-Hack%26Fix.pdf)
 |Red Team Leader | [Certified Red Team Operations Management](https://github.com/Yuvaraj-SOC/Certification/blob/main/CRTOM-Red%20Team.pdf)
 |NPTEL -76%       | [Ethical Hacking ](https://github.com/Yuvaraj-SOC/Certification/blob/main/Ethiacl%20Hacking-NPTEL.pdf)
+|Red Team Leader| [Certified Threat Intelligence & Governance Analyst (CTIGA)](https://github.com/Yuvaraj-SOC/Certification/blob/main/CTIGA.pdf)
 
 ## 🧪 CTF Participation
 
